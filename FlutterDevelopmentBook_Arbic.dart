@@ -446,9 +446,9 @@ try {
   var value1 = 5;
   var value2 = 0;
   print(value1 / value2);
-  
+
 } catch (e) {
-  print("Error! division by zero")
+  print("Error! division by zero");
 }
 
 
